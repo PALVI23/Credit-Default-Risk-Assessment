@@ -1,0 +1,14 @@
+numpy
+pandas
+pyarrow
+scikit-learn>=1.4
+lightgbm>=4.3
+xgboost>=2.0
+catboost>=1.2
+shap>=0.46
+optuna>=3.6
+matplotlib
+seaborn
+gradio>=4.44
+tabulate
+kaggle
